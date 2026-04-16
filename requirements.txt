@@ -1,0 +1,6 @@
+torch
+streamlit
+faiss-cpu
+pandas
+pyarrow
+numpy
